@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+webScrap/
+venv/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore python cache
+__pycache__/
+*.pyc
